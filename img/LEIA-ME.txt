@@ -1,0 +1,1 @@
+Coloque aqui as fotos dos produtos (ex.: cesta-noite-feliz.jpg) e aponte em products.js no campo imagem.
